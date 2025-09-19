@@ -1,0 +1,14 @@
+# Requirements file for integration testing
+# Generated from packages.txt - contains only package names for pip resolution testing
+
+tts_webui_core
+fairseq
+extension_tortoise
+extension_demucs
+extension_mms
+extension_seamless_m4t
+extension_vocos
+gradio_goodtabs
+gradio_goodtab
+gradio_iconbutton
+extension_openai_tts_api
